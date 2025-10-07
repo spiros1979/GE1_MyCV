@@ -1,1 +1,1 @@
-# GE1_MyCV
+# Repository  για την 1η ΓΕ ΣΔΥ-60
