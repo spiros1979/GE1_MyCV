@@ -1,9 +1,3 @@
----
-
-
-
----
-
 
 <img src="https://www.dropbox.com/scl/fi/3d0xg1gzqwcu888qviep2/CVpic.jpg?rlkey=oaar7kl7fxps6ot2ldx03zdnb&st=5slnumkw&raw=1" alt="Η φωτογραφία μου" width="150" height="225">
 
